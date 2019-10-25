@@ -1,3 +1,5 @@
+This was altered slightly to work using using WSL and the suggested packages in gdoc
+
 # Fishspy: Fish video analysis using numpy
 
 [Fishspy](http://github.com/informatics-isi-edu/fishspy) is a batch
